@@ -1,6 +1,6 @@
 import React from "react";
 
-import '../assets/croppr.css';
+import 'croppr/dist/croppr.css';
 import Croppr from 'croppr';
 
 const withCroppr = (Img) => {
